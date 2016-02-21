@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="startButtonText">GET STARTED!</string>
+    <string name="instructionText">Fill in the words to complete te story!</string>
+</resources>
